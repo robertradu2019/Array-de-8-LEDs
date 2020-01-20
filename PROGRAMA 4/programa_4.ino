@@ -7,7 +7,7 @@ int pin10 = 10;
 int pin11 = 11;
 int pin12 = 12;
 
-int timer = 100;
+
 
 void setup(){
  
